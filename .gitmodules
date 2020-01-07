@@ -1,0 +1,3 @@
+[submodule "Assets/Imported/MenuManager"]
+	path = Assets/Imported/MenuManager
+	url = https://github.com/WeersProductions/MenuManager.git
